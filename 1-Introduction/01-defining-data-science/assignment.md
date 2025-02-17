@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
+| Education |Improve education process for children in schools|Students performance in various subjects|Google sheet |The subject that most students do not do well in, subjects whose learning should be made simpler|
 | Vaccination | | | | |
 | Productivity | | | | |
 
